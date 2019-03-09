@@ -10,7 +10,7 @@ public class Tarea21 {
 			try {
 				System.out.print("\n\nIngrese el primer numero: ");
 				a = sc.nextFloat();
-				System.out.print("Ingrese el segndo numero: ");
+				System.out.print("\nIngrese el segundo numero: ");
 				b = sc.nextFloat();
 				System.out.print("Ingrese el tercer numero: ");
 				c = sc.nextFloat();
